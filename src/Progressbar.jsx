@@ -32,7 +32,7 @@ export default function Progressbar() {
         gap: 2,
         px: 2,
         py: 1.5,
-        bgcolor: '#0C1A2E',
+        bgcolor: '#0b1b3c',
         borderRadius: 2,
         whiteSpace: 'nowrap',
         justifyContent:"center",
